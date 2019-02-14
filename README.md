@@ -36,6 +36,7 @@
         而这种在中文数据中行不通，中文往往有更加灵活的位置（eg.提前介词)“与巴拿马建立外交关系”
     
     采用语义依存句分析-哈工大
+  ![](https://raw.githubusercontent.com/Elliotter/Chinese-Open-Relation-Extraction-and-Knowledge-Base-Establishment/master/image.png)
     
     
         
