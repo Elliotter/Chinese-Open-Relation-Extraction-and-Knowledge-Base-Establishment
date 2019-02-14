@@ -37,7 +37,11 @@
     
     采用语义依存句分析-哈工大
   ![](https://raw.githubusercontent.com/Elliotter/Chinese-Open-Relation-Extraction-and-Knowledge-Base-Establishment/master/image.png)
-    
+  通过分析语句中各个部分之间的联系，从而提取关系，借助哈工大的依存关系定义，如下：
+  ![](https://raw.githubusercontent.com/Elliotter/Chinese-Open-Relation-Extraction-and-Knowledge-Base-Establishment/master/image1.png)
+  
+  ## 依存语法
+  
     
         
         
